@@ -12,7 +12,7 @@ To avoid the prohibitive time and resource consuming network building process, w
 
 Code
 --------
-We will open source the code once the paper is published.
+We will release the code once the paper is published.
 
 Data
 --------
