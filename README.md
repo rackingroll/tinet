@@ -12,7 +12,7 @@ To avoid the prohibitive time and resource consuming network building process, w
 
 Code
 --------
-The code for the TINET in the code/ directory, we will open source the code once the paper is published.
+We will open source the code once the paper is published.
 
 Data
 --------
