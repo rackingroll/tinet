@@ -16,7 +16,8 @@ The code for the TINET in the code/ directory, we will open source the code once
 
 Data
 --------
-The Synthetic Data is located in Data/Synthetic_Data/ directory。
+The Synthetic Data is located in Data/Synthetic_Data/ directory.
+
 The real-world data is located in Data/Real_Data directory.
 
 Resources  
