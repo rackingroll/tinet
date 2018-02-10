@@ -24,3 +24,5 @@ Resources
 -------- 
 Chen Luo, Zhengzhang Chen, Lu-An Tang, Anshumali Shrivastava, Zhichun Li, Haifeng Chen, Jieping Ye
 . [*TINET: Learning Invariant Networks via Knowledge Transfer*] Under Review.
+
+Contact: Chen Luo (cl67@rice.edu)
