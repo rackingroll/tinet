@@ -8,7 +8,7 @@ The invariant network has shown to be a powerful way of characterizing complex s
 However,due to the dynamic and complex nature of real-world information systems, learning a reliable invariant network in a new environment often requires continuous collecting and analyzing the system surveillance data for several weeks or even months. 
 To avoid the prohibitive time and resource consuming network building process, we propose TINET, a knowledge transfer based model for accelerating invariant network construction. Extensive experiments on both synthetic and real-world datasets demonstrate the effectiveness and efficiency of TINET.
 
-<img src="https://github.com/rackingroll/tinet/blob/master/Image/overview.PNG" width="900" height="360" />
+<img src="https://github.com/rackingroll/tinet/blob/master/Image/overview.PNG" width="600" height="300" />
 
 Organization
 --------
