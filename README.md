@@ -1,24 +1,26 @@
 TINET: A Transfer Learning Framework for Invariant Networks
 ======================
 
-Organization
---------
-
-The code for the Ligra (and Ligra+) framework is located in the ligra/
-directory.  The code for the applications is in the apps/ directory,
-which is where compilation should be performed.  Example inputs are
-provided in the inputs/ directory. Graph utilities are provided in the
-utils/ directory.
-
-The Synthetic Data is located in Data/Synthetic_Data.
-
-
-
 Project Introduction
 --------
+
+The latent behavior of an information system that can exhibit extreme events
+such as system faults or cyber-attacks, is complex. Recently, the invariant network has shown to be a powerful way of characterizing complex system behaviors. Structures and evolutions of the invariance network, in particular, the vanishing correlations, can shed important light on identifying causal anomalies and performing system diagnosis. However,due to the dynamic and complex nature of real-world information systems, learning a reliable invariant network in a new environment often requires continuous collecting and analyzing the system surveillance data for several weeks or even months. Although the invariant networks learned from old environments have some common entities and entity relationships, these networks cannot be directly borrowed for the new environment due to the domain variety problem. To avoid the prohibitive time and resource consuming network building process, we propose TINET, a knowledge transfer based model for accelerating invariant network construction. In particular, we first propose an entity estimation model to estimate the probability of each source domain entity that can be included in the final invariant network of the target domain. Then, we propose a dependency construction model for constructing the unbiased dependency relationships by solving a two-constraint optimization problem. Extensive experiments on both synthetic and real-world datasets demonstrate the effectiveness and efficiency of TINET.
+We also apply TINET to a real enterprise security system for intrusion detection. TINET is able to achieve superior detection performance at least $20$ days lead-lag time in advance with more than 70% accuracy.
+
 <img src="https://github.com/RUSH-LAB/Flash/blob/master/plots/webspam_url_table.PNG" width="668" height="85" />
 <img src="https://github.com/RUSH-LAB/Flash/blob/master/plots/webspam_plots.PNG" width="739" height="310" />
 <img src="https://github.com/RUSH-LAB/Flash/blob/master/plots/url_plots.PNG" width="739" height="310" />
+
+
+
+Organization
+--------
+
+The code for the TINET in the code/ directory, but it is currentlly not available.
+The Synthetic Data is located in Data/Synthetic_Data/ directory, and the real-world data is located in Data/Real_Data directory.
+
+
 
 
 Compilation is done from within the apps/ directory. The compiled code
