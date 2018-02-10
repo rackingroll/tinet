@@ -10,8 +10,16 @@ which is where compilation should be performed.  Example inputs are
 provided in the inputs/ directory. Graph utilities are provided in the
 utils/ directory.
 
-Compilation
+The Synthetic Data is located in Data/Synthetic_Data.
+
+
+
+Project Introduction
 --------
+<img src="https://github.com/RUSH-LAB/Flash/blob/master/plots/webspam_url_table.PNG" width="668" height="85" />
+<img src="https://github.com/RUSH-LAB/Flash/blob/master/plots/webspam_plots.PNG" width="739" height="310" />
+<img src="https://github.com/RUSH-LAB/Flash/blob/master/plots/url_plots.PNG" width="739" height="310" />
+
 
 Compilation is done from within the apps/ directory. The compiled code
 will work on both uncompressed and compressed graphs.
