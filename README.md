@@ -1,11 +1,6 @@
 TINET: A Transfer Learning Framework for Invariant Networks
 ======================
 
-Organization
---------
-The code for the TINET in the code/ directory, but it is currentlly not available.
-The Synthetic Data is located in Data/Synthetic_Data/ directory, and the real-world data is located in Data/Real_Data directory.
-
 Project Introduction
 --------
 
@@ -15,6 +10,10 @@ To avoid the prohibitive time and resource consuming network building process, w
 
 <img src="https://github.com/rackingroll/tinet/blob/master/Image/framework.PNG" width="1200" height="360" />
 
+Organization
+--------
+The code for the TINET in the code/ directory, but it is currentlly not available.
+The Synthetic Data is located in Data/Synthetic_Data/ directory, and the real-world data is located in Data/Real_Data directory.
 
 Resources  
 -------- 
