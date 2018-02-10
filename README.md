@@ -16,7 +16,7 @@ We will release the code once the paper gets published.
 
 Data
 --------
-The Synthetic Data is located in Data/Synthetic_Data/ directory.
+The synthetic data is located in Data/Synthetic_Data/ directory.
 
 The real-world data is located in Data/Real_Data directory.
 
