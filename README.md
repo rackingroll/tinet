@@ -18,7 +18,7 @@ Data
 --------
 The synthetic data is located in Data/Synthetic_Data/ directory.
 
-The real-world data is located in Data/Real_Data directory.
+The real-world data is located in Data/Real_Data directory. We preprocess the data into Invariant Network format. The model* file contains the matrix representation of the Invariant Network, and target*/source* contains the identification of the entities.
 
 Resources  
 -------- 
